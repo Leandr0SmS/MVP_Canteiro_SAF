@@ -17,7 +17,7 @@ Foi utilizado o método Lean Inception para idealizar direcionar o MVP.
 [Leandro Simões](https://github.com/Leandr0SmS)
 
 ## Licença
-[MIT License](https://github.com/Leandr0SmS/mvp_canteiro_saf/blob/main/LICENSE)
+[MIT License](https://github.com/Leandr0SmS/MVP_Canteiro_SAF/blob/main/LICENSE.md)
 
 ## Inspirações
 
