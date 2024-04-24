@@ -17,6 +17,11 @@ Foi utilizado o modelo do product backlog building para montagem do backlog.
 
 > [PBB Canteiro SAF](https://miro.com/app/board/uXjVKW0wpKs=/?share_link_id=203178916696)
 
+## Backlog
+A ferramenta utilizada para gerenciar o backlog foi o Jira, nesse repositório está os prints do backlog e da primeira sprint.
+
+> [Backlog Jira](https://github.com/Leandr0SmS/MVP_Canteiro_SAF/blob/main/backlog_canteiro_saf.pdf)
+
 ## Autor
  
 [Leandro Simões](https://github.com/Leandr0SmS)
