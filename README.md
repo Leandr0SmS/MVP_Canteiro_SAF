@@ -12,7 +12,7 @@ Foi utilizado o método Lean Inception para idealizar direcionar o MVP.
 
 > [Lean Inception MVP Canteiro SAF](https://miro.com/app/board/uXjVKdwYcVQ=/?share_link_id=131189567277)
 
-## Backlog
+## Backlog Building
 Foi utilizado o modelo do product backlog building para montagem do backlog.
 
 > [PBB Canteiro SAF](https://miro.com/app/board/uXjVKW0wpKs=/?share_link_id=203178916696)
