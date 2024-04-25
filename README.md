@@ -1,5 +1,6 @@
 # MVP Canteiro SAF
 Produto que facilita o planejamento e visualização de canteiros agroflorestais. 
+Criado para disciplina de Gestão Ágil de Projetos e Produtos da pós-graduação em Engenharia de Software da PUC-Rio de Janeiro.
 
 ## Objetivos
 - Incentivar a agrofloresta;
