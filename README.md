@@ -8,6 +8,10 @@ Criado para disciplina de Gestão Ágil de Projetos e Produtos da pós-graduaç�
 - Criar um banco de dados de plantas destinadas a SAFs;
 - Facilitar o planejamento de consórcios de plantas;
 
+## Video 
+
+> [Canteiro SAF - YouTube ](https://www.youtube.com/watch?v=eACudv_lA2Q)
+
 ## Ideação
 Foi utilizado o método Lean Inception para idealizar direcionar o MVP.
 
